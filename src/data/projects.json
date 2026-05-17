@@ -1,5 +1,31 @@
 [
   {
+    "title": "Pipeline Guard",
+    "slug": "pipeline-guard",
+    "summary": "DevSecOps security scanner for CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins, CircleCI). Detects script injection, supply-chain risks, leaked secrets, and OWASP CI/CD Top 10 misconfigurations. SARIF 2.1.0, JSON, HTML, CSV reports.",
+    "category": "DevSecOps",
+    "tags": [
+      "ci-cd",
+      "cybersecurity",
+      "devsecops",
+      "github-actions",
+      "gitlab-ci",
+      "infosec",
+      "python",
+      "sarif",
+      "sast",
+      "security-scanner"
+    ],
+    "github_url": "https://github.com/srini-cybersec/pipeline-guard",
+    "tech_stack": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-05-11T09:43:12Z",
+    "updated_at": "2026-05-11T09:45:15Z"
+  },
+  {
     "title": "Threathunter",
     "slug": "threathunter",
     "summary": "OSINT framework for multi-source IOC enrichment and threat intelligence (VirusTotal, AbuseIPDB, Shodan, OTX, URLScan)",
