@@ -1,5 +1,31 @@
 [
   {
+    "title": "Malwarelens",
+    "slug": "malwarelens",
+    "summary": "Static malware analysis toolkit: PE/ELF parsing, YARA-like rules, IOC extraction, threat scoring (Python)",
+    "category": "Incident Response",
+    "tags": [
+      "cybersecurity",
+      "elf-parser",
+      "incident-response",
+      "infosec",
+      "ioc-extraction",
+      "malware-analysis",
+      "mitre-attack",
+      "pe-parser",
+      "python",
+      "reverse-engineering"
+    ],
+    "github_url": "https://github.com/srini-cybersec/malwarelens",
+    "tech_stack": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-05-18T10:05:44Z",
+    "updated_at": "2026-05-18T10:05:53Z"
+  },
+  {
     "title": "Pipeline Guard",
     "slug": "pipeline-guard",
     "summary": "DevSecOps security scanner for CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins, CircleCI). Detects script injection, supply-chain risks, leaked secrets, and OWASP CI/CD Top 10 misconfigurations. SARIF 2.1.0, JSON, HTML, CSV reports.",
