@@ -1,5 +1,31 @@
 [
   {
+    "title": "Websec Scanner",
+    "slug": "websec-scanner",
+    "summary": "Passive web application security analyzer for HAR files and raw HTTP captures — security headers, CSP, cookies, CORS, disclosure & transport checks with SARIF output. Zero network calls.",
+    "category": "Cybersecurity",
+    "tags": [
+      "appsec",
+      "csp",
+      "cybersecurity",
+      "ethical-hacking",
+      "http-security",
+      "infosec",
+      "owasp",
+      "penetration-testing",
+      "python",
+      "sarif"
+    ],
+    "github_url": "https://github.com/srini-cybersec/websec-scanner",
+    "tech_stack": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-06-01T11:31:03Z",
+    "updated_at": "2026-06-01T11:31:30Z"
+  },
+  {
     "title": "Cloudguardian",
     "slug": "cloudguardian",
     "summary": "Multi-cloud Infrastructure-as-Code security posture scanner (Terraform, CloudFormation, Kubernetes, IAM) with SARIF output and 34 built-in rules",
