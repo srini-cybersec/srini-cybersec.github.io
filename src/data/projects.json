@@ -1,5 +1,31 @@
 [
   {
+    "title": "Ir Commander",
+    "slug": "ir-commander",
+    "summary": "Offline forensic triage & incident timeline engine with 23 MITRE ATT&CK-tagged detection rules and SARIF 2.1.0 output. Pure-Python, zero network calls.",
+    "category": "Incident Response",
+    "tags": [
+      "cybersecurity",
+      "dfir",
+      "forensics",
+      "incident-response",
+      "infosec",
+      "mitre-attack",
+      "python",
+      "sarif",
+      "security-tools",
+      "threat-detection"
+    ],
+    "github_url": "https://github.com/srini-cybersec/ir-commander",
+    "tech_stack": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-06-15T12:06:35Z",
+    "updated_at": "2026-06-15T12:07:00Z"
+  },
+  {
     "title": "Cryptaudit",
     "slug": "cryptaudit",
     "summary": "Pure-Python cryptographic misconfiguration & weak-crypto scanner: source code, X.509 certs, and private keys. SARIF 2.1.0, 33 CWE-mapped rules, zero network calls.",
