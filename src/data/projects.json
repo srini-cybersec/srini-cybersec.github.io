@@ -1,5 +1,31 @@
 [
   {
+    "title": "Logsentry",
+    "slug": "logsentry",
+    "summary": "Offline SIEM detection & correlation engine: Sigma-style detection-as-code, stateful correlation, MITRE ATT&CK tagging, and SARIF output (pure Python, zero network calls)",
+    "category": "Cybersecurity",
+    "tags": [
+      "blue-team",
+      "cybersecurity",
+      "detection-engineering",
+      "infosec",
+      "mitre-attack",
+      "python",
+      "sarif",
+      "security-monitoring",
+      "security-tools",
+      "siem"
+    ],
+    "github_url": "https://github.com/srini-cybersec/logsentry",
+    "tech_stack": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-06-22T11:56:39Z",
+    "updated_at": "2026-06-22T11:56:52Z"
+  },
+  {
     "title": "Ir Commander",
     "slug": "ir-commander",
     "summary": "Offline forensic triage & incident timeline engine with 23 MITRE ATT&CK-tagged detection rules and SARIF 2.1.0 output. Pure-Python, zero network calls.",

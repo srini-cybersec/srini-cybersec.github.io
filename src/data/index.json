@@ -1,13 +1,13 @@
 {
-  "total_projects": 9,
+  "total_projects": 10,
   "categories": {
+    "Cybersecurity": 4,
     "Incident Response": 2,
     "Cryptography": 1,
-    "Cybersecurity": 3,
     "Cloud Security": 1,
     "DevSecOps": 1,
     "Network Security": 1
   },
-  "last_synced": "2026-06-21T14:06:00.836Z",
+  "last_synced": "2026-06-28T13:42:19.619Z",
   "github_profile": "https://github.com/srini-cybersec"
 }
