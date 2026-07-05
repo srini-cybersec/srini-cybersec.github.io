@@ -1,5 +1,31 @@
 [
   {
+    "title": "Apifortress",
+    "slug": "apifortress",
+    "summary": "Offline static security analyzer for OpenAPI/Swagger & Postman specs — OWASP API Security Top 10 (2023), SARIF output, zero network calls.",
+    "category": "API Security",
+    "tags": [
+      "api-security",
+      "cybersecurity",
+      "devsecops",
+      "infosec",
+      "openapi",
+      "owasp",
+      "python",
+      "sarif",
+      "sast",
+      "security-tools"
+    ],
+    "github_url": "https://github.com/srini-cybersec/apifortress",
+    "tech_stack": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-06-29T10:45:44Z",
+    "updated_at": "2026-06-29T10:46:10Z"
+  },
+  {
     "title": "Logsentry",
     "slug": "logsentry",
     "summary": "Offline SIEM detection & correlation engine: Sigma-style detection-as-code, stateful correlation, MITRE ATT&CK tagging, and SARIF output (pure Python, zero network calls)",
