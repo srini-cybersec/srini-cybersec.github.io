@@ -1,5 +1,31 @@
 [
   {
+    "title": "Containershield",
+    "slug": "containershield",
+    "summary": "Offline static security scanner for Dockerfiles, Docker Compose, and Kubernetes manifests — 34 CIS-mapped rules with SARIF 2.1.0 output",
+    "category": "Container Security",
+    "tags": [
+      "cis-benchmark",
+      "container-security",
+      "cybersecurity",
+      "devsecops",
+      "docker",
+      "infosec",
+      "kubernetes",
+      "python",
+      "sarif",
+      "sast"
+    ],
+    "github_url": "https://github.com/srini-cybersec/containershield",
+    "tech_stack": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-07-06T10:17:12Z",
+    "updated_at": "2026-07-06T10:17:20Z"
+  },
+  {
     "title": "Apifortress",
     "slug": "apifortress",
     "summary": "Offline static security analyzer for OpenAPI/Swagger & Postman specs — OWASP API Security Top 10 (2023), SARIF output, zero network calls.",
